@@ -1,2 +1,2 @@
 # berry_picking
-Repository for a game in early development, called Berry Picking.
+A game in early development about the journey of a sweet person-creature with an orange hat and a basket full of berries. The premise of the game is that you, player/orange hat person, are in a journey through an extensive town, and you must get to a castle by the end of your adventure. To do this, you need the help of special berries, with abilities and perks such as attack, feeding and conversation, that you will find in your way. This game is inspired by Pokemon and Stardew Valley, and is in the early stages of it's making, by one man, junojuice.
